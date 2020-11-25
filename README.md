@@ -15,3 +15,8 @@ Dataset can be accessed from Kaggle via this link: https://www.kaggle.com/ashish
 <img src="https://i.imgur.com/p5i0kKl.png" width="300">
 
 <img src="https://i.imgur.com/VP4fZJG.png" width="300">
+
+### Conclusion
+- The model works well in the ideal condtions: clear images, no obstacle.
+- However, the model fails to detect when someone is covering his/her face with other objects (bottles of water, hands,...) not face masks.
+- To improve the model, we should collect more data of various scenarios, not just in the ideal conditions.
